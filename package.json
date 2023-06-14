@@ -1,0 +1,11 @@
+{
+  "name": "@forgejs/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@nx/workspace": "16.3.2",
+    "nx": "16.3.2",
+    "nx-cloud": "latest"
+  }
+}
