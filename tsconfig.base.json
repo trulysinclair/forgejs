@@ -20,8 +20,7 @@
       "@forgejs/command": ["libs/command/src/index.ts"],
       "@forgejs/control": ["libs/control/src/index.ts"],
       "@forgejs/core": ["libs/core/src/index.ts"],
-      "@forgejs/test": ["libs/test/src/index.ts"],
-      "forgejs": ["libs/forgejs/src/index.ts"]
+      "@forgejs/test": ["libs/test/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
