@@ -13,7 +13,7 @@ import { inject } from "inversify";
  * const ILogService = createDecorator<ILogService>("LogService");
  *
  * class MyController {
- *  constructor(@IService private readonly service: MyService) {}
+ *  constructor(@ILogService private readonly logService: ILogService) {}
  * }
  *
  * ```
