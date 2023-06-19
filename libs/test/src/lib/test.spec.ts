@@ -1,4 +1,4 @@
-import { test } from './test';
+import { test } from './main';
 
 describe('test', () => {
   it('should work', () => {
