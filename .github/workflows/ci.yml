@@ -14,6 +14,7 @@ jobs:
       main-branch-name: main
       number-of-agents: 3
       yarn-version: 3.6.0
+      node-version: 16.13.0
       install-commands: |
         yarn install
       init-commands: |
