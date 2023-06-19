@@ -4,7 +4,8 @@
   "license": "MIT",
   "private": true,
   "volta": {
-    "yarn": "3.6.0"
+    "yarn": "3.6.0",
+    "node": "16.13.0"
   },
   "devDependencies": {
     "@nx/eslint-plugin": "16.3.2",
