@@ -13,7 +13,7 @@ jobs:
     with:
       main-branch-name: main
       number-of-agents: 3
-      yarn-version: 3.x
+      yarn-version: 3.6.0
       init-commands: |
         yarn exec nx-cloud start-ci-run --stop-agents-after="build" --agent-count=3
       parallel-commands: |
